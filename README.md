@@ -1,4 +1,4 @@
-# Weather API with Rate Limiting and Caching
+# Weather API Wrapper Service with Rate Limiting and Caching
 
 This project showcases the development of a Python-based Weather App that interacts with a third-party API to retrieve weather data, incorporates rate limiting to prevent overuse, and leverages Redis for caching to enhance performance and efficiency.
 
@@ -106,4 +106,4 @@ Clients are allowed a maximum of 10 requests per minute by default.
 Exceeding this limit will return a 429 Too Many Requests response.
 
 
-Sample solution for the [task-tracker-cli](https://roadmap.sh/projects/weather-api-wrapper-service) challenge from [roadmap.sh](https://roadmap.sh/).
+Sample solution for the [weather-api-wrapper-service](https://roadmap.sh/projects/weather-api-wrapper-service) challenge from [roadmap.sh](https://roadmap.sh/).
