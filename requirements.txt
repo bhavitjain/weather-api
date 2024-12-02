@@ -1,0 +1,5 @@
+fastapi[standard]==0.115.0
+requests==2.32.3
+python-dotenv==1.0.1
+logging==0.4.9.6
+redis==5.2.0
