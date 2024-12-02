@@ -1,6 +1,6 @@
 # Weather API Wrapper Service with Rate Limiting and Caching
 
-This project showcases the development of a Python-based Weather App that interacts with a third-party API to retrieve weather data, incorporates rate limiting to prevent overuse, and leverages Redis for caching to enhance performance and efficiency.
+This project showcases the development of a Weather API Wrapper Service that interacts with a third-party API to retrieve weather data, incorporates rate limiting to prevent overuse, and leverages Redis for caching to enhance performance and efficiency.
 
 ---
 
